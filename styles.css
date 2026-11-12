@@ -77,6 +77,17 @@ h1 {
   border-color: #444;
 }
 
+.web-version {
+  margin-left: 10px;
+  background: #fafafa;
+  color: #171717;
+}
+
+.web-version:hover {
+  background: #e8e8e8;
+  border-color: #777;
+}
+
 .download.disabled {
   opacity: 0.6;
   cursor: wait;
